@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1624272776 source:c:\users\stami\onedrive\Υπολογιστής\project database 2021\project2021\project.b.b\project b.b\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<bits/stdc++.h>
+	<cstdio>
+	<algorithm>
+
